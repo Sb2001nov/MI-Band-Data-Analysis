@@ -16,13 +16,13 @@ by the way, this data is of my band 😁, so don't judge me.
 
 ### Activity
 
-![](C:\Users\shubham\Desktop\MI_band\plots\time_vs_distance_and_calorie.png)
+![](plots\time_vs_distance_and_calorie.png)
 
 The subject uses around **163.49-gram calories** (684.04216 Jules) in a day, equivalent to around **2 apples** [1].
 
 maximum distance traveled by test subject is **15.411km(22558 steps)** in a day, ran **0.88km**, total calories burn over the day is **505**, on **2022-02-10**.
 
-![](C:\Users\shubham\Desktop\MI_band\plots\date_vs_calories.png)
+![](plots\date_vs_calories.png)
 
 consumption of calories over time is very unregular having a **MAD of 64.0** and **SD of 103.031**.
 
@@ -30,7 +30,7 @@ distance travel is quite stable having a **MAD of 1.83** and **SD of 3.09**.
 
 #### Activity Data Co-relation matrix
 
-![](C:\Users\shubham\Desktop\MI_band\plots\corr.png)
+![](plots\corr.png)
 
 I don't run much that's why it's like this.
 
